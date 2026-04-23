@@ -10,4 +10,6 @@ elif score >= 60:
     letter = 'D'
 else:
     letter = 'F'
-print(f"Your score {score} is Equivalent to the {letter} Grade.")   
+print(f"Your score {score} is Equivalent to the {letter} Grade.")           \\\
+    
+    buwu
